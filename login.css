@@ -1,0 +1,43 @@
+html,
+body {
+    height: 100%;
+    margin: 20px;
+    background: linear-gradient(45deg, #49a09d, #5f2c82);
+    font-family: sans-serif;
+    font-weight: 100;
+}
+
+div.jumbotron {
+    background: linear-gradient(45deg, #3e6b6a, #542077 );
+    color: wheat;
+}
+
+div.jumbotron  h1{
+    display: inline-block;
+    width: 300px;
+}
+
+header h1 {
+    color: wheat
+}
+a {
+color:darkmagenta;
+text-decoration: none;
+}
+.formica {
+    color: white;
+    margin-left: 50px;
+    /* border: 1px solid red; */
+}
+.logo {
+        margin-top:-50px;
+        float: right;   
+        width: 300px;
+        /* border: 1px solid black; */
+        text-align: center;
+        color: wheat;
+        margin-left: 50px;
+    }
+
+
+

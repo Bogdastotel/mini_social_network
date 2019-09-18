@@ -1,0 +1,53 @@
+
+
+header li.navi {
+	display: inline-block;
+	margin-top: 20px;
+	margin-left: 20px;
+	list-style-type: none;
+}	
+.navi a {
+	text-decoration: none;
+	color: wheat;
+}
+.navi a:hover {
+	color:lightskyblue;
+}
+a {
+	color:darkmagenta;
+	text-decoration: none;
+}
+li, p {
+	color:white;
+}
+p {
+	margin:50px auto;
+	font-size: 20px;
+
+}
+h1 {
+	color:white;
+}
+
+div.jumbotron {
+	background-color: transparent;
+	
+	
+}
+
+div.jumbotron h1 {
+	color: whitesmoke;
+	margin-top: -35px;
+}
+
+h2 {
+	color: wheat;
+}
+
+.container img {
+	opacity: 0.8;
+	margin-top: 5px;
+}
+
+
+
